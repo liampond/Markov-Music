@@ -8,8 +8,8 @@ C13, Am7, Dm7, G7, Em7, Am7, Dm7, G7, C7, F7, Fsharpdim7, C13, G7, C13, G7, C13,
 
 Am7, Dm7, G7, Cmaj7, Fmaj7, B7, Emaj7, Em7, Am7, D7, Gmaj7, Cmaj7, Ahalfdim, Fsharp7, Bmaj7, Csharpm7, Fsharp7, B7, Bflathalfdim, Eflat7, Aflatmaj7, E7sharp5, Am7, Dm7, G7, Cmaj7, Fmaj7, Fm7, Em7, Eflatm7, Dm7, G7, Cmaj7, Bm7, E7, Am7
 
-F, Aflatdim7, Gm7, C7sus4, C7, F, Am, Gm, Gminmaj7, Gm7, F, Aflatdim7, Gm7, C7sus4, C7, Am, Gsharpdim7, Am7, D9, D7flat9, G, Eflat7, Am7, D7, G7, Cmaj7, Aflatm7flat5, Dflat7, Em7, A7sharp5, Am9, D7flat9, Fmaj9, C13
+F, Aflatdim7, Gm7, C7sus4, C7, F, Am, Gm, Gminmaj7, Gm7, F, Aflatdim7, Gm7, C7sus4, C7, Am, Gsharpdim7, Am7, D9, D7flat9, G, Eflat7, Am7, D7, G7, Cmaj7, Aflathalfdim7, Dflat7, Em7, A7sharp5, Am9, D7flat9, Fmaj9, C13
 
-Cmaj7, Cm7, D7, Dflat, Cmaj7, Dm7, G7, Cmaj7, Fm7, Bflat7, Eflatmaj7, Cmaj7, Cm7, D7, Dflat, Cmaj7, Dm7, Bm7flat5, Eflat9, Am7, Fsharpm7flat5, B7, Em7, A7, Dm7, G7, Cmaj7, Em7, G9
+Cmaj7, Cm7, D7, Dflat, Cmaj7, Dm7, G7, Cmaj7, Fm7, Bflat7, Eflatmaj7, Cmaj7, Cm7, D7, Dflat, Cmaj7, Dm7, Bm7flat5, Eflat9, Am7, Fsharphalfdim7, B7, Em7, A7, Dm7, G7, Cmaj7, Em7, G9
 
-Cmaj7, Dflatdim7, Dm7, F7, Em7, Am7, Dm7, G7, Cmaj7, Dflatdim7, Dm7, F7, Em7, Am7, Gm7, C7, Fmaj7, Eflatm7, Aflat7, Dflatmaj7, Bm7, E7, Amaj7, Eflatm7, Aflat7, Dflatmaj7, Dmin7, G7, Cmaj7, Dflatdimi7, Dm7, G7, F7, Em7, A7, Dm7, G7, Cmaj7, Dm7, G7
+Cmaj7, Dflatdim7, Dm7, F7, Em7, Am7, Dm7, G7, Cmaj7, Dflatdim7, Dm7, F7, Em7, Am7, Gm7, C7, Fmaj7, Eflatm7, Aflat7, Dflatmaj7, Bm7, E7, Amaj7, Eflatm7, Aflat7, Dflatmaj7, Dmin7, G7, Cmaj7, Dflatdim7, Dm7, G7, F7, Em7, A7, Dm7, G7, Cmaj7, Dm7, G7
